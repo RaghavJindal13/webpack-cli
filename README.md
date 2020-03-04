@@ -28,6 +28,7 @@
 [![GitHub contributors][contributors]][contributors-url]
 [![Issue resolution][issue-resolution]][issue-resolution-url]
 [![PR's welcome][pr-welcome]][pr-welcome-url]
+[![Node CI][Node CI]][Node CI-url]
 
 ## Table of Contents
 
